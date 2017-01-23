@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+#dropzone {
+    background: #DDD;
+    padding: 2rem;
+}
+
+#main {
+    margin: 2rem;
+    line-height: 1.5;
+}
+
+code {
+    background: #DDD;
+    padding: 0.2rem;
+    border-radius: 0.3rem;
+}
+
+span.ok {
+    color: #080;
+}
+
+span.error {
+    color: #F00;
+}
